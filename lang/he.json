@@ -2,6 +2,7 @@
     "IP2Proxy": {
         "City": "עיר",
         "Country": "מדינה",
-        "NumberOfVisits": "מספר ביוקרים"
+        "NumberOfVisits": "מספר ביוקרים",
+        "Proxy": "פרוקסי"
     }
 }
