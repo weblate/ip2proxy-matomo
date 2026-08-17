@@ -5,6 +5,8 @@
         "Country": "Země",
         "Device": "Zařízení",
         "Domain": "Doména",
+        "DownloadYourBinDatabase": "Stáhněte si bezplatnou databázi IP2Proxy z webu %1$sIP2Location LITE%2$s. Přesnějších výsledků dosáhnete s databází %3$sIP2Proxy Commercial%4$s.<br>Nahrajte databázi BIN do adresáře <strong>/misc</strong> a zde zadejte její absolutní cestu.",
+        "FindBelowProxyDetailsReport": "Níže najdete přehled proxy za včerejšek.",
         "Hi": "Ahoj,",
         "IP2ProxyBinDatabase": "IP2Proxy BIN Database",
         "IoApiKey": "API Klíč (ip2location.io)",
@@ -17,12 +19,16 @@
         "Proxy": "Proxy",
         "ProxyDetails": "Podrobnosti o proxy",
         "ProxyDetailsReportSubject": "[%1$s] Váš denní přehled / podrobnosti o proxy",
+        "ProxyType": "Typ proxy",
+        "ReferrerName": "Název zdroje návštěvy",
+        "ReferrerType": "Typ zdroje návštěvy",
         "Region": "Region",
         "SignUpFreeIP2LocationIo": "Zaregistrujte se zdarma na 30 000 dotazů měsíčně na %1$sIP2Location.io%2$s. Dotaz bude vyhledávat pomocí API, pokud je toto pole vyplněno.",
         "SubscribeToEmailReport": "Přihlaste se k odběru e-mailových zpráv",
         "ThanksForUsing": "Děkujeme za používání služby IP2Location.",
         "Threat": "Hrozba",
         "Type": "Typ",
+        "UsageType": "Typ využití",
         "WantToReceiveDailyReport": "Chci dostávat denní zprávy e-mailem s údaji o proxy serverech, které navštívily mé webové stránky."
     }
 }
