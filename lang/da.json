@@ -1,12 +1,34 @@
 {
     "IP2Proxy": {
+        "Asn": "ASN",
         "City": "By",
         "Country": "Land",
         "Device": "Enhed",
         "Domain": "Domæne",
+        "DownloadYourBinDatabase": "Download din gratis IP2Proxy-database fra hjemmesiden %1$sIP2Location LITE%2$s. Brug databasen %3$sIP2Proxy Commercial%4$s for at få mere præcise resultater.<br>Upload BIN-databasen til <strong>/misc</strong>, og angiv den absolutte sti her.",
+        "FindBelowProxyDetailsReport": "Nedenfor finder du proxyrapporten for i går.",
+        "Hi": "Hej,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN-database",
+        "IoApiKey": "API-nøgle (ip2location.io)",
+        "Isp": "ISP",
         "LastVisit": "Seneste besøg",
+        "LastVisitDuration": "Varighed af seneste besøg",
+        "LifeTimeOfCacheForResultsInWeeks": "Antal uger, hvor de returnerede resultater skal gemmes i cachen.",
+        "NoOneVisitedWebsiteYesterday": "Desværre var der ingen, der besøgte din hjemmeside i går…",
         "NumberOfVisits": "Antal besøg",
+        "Proxy": "Proxy",
+        "ProxyDetails": "Proxyoplysninger",
+        "ProxyDetailsReportSubject": "[%1$s] Din daglige rapport / Proxyoplysninger",
+        "ProxyType": "Proxytype",
+        "ReferrerName": "Henvisningsnavn",
+        "ReferrerType": "Henvisningstype",
         "Region": "Region",
-        "Type": "Type"
+        "SignUpFreeIP2LocationIo": "Tilmeld dig gratis 30.000 forespørgsler om måneden hos %1$sIP2Location.io%2$s. Hvis dette felt er udfyldt, udføres opslag via API'et.",
+        "SubscribeToEmailReport": "Abonner på e-mailrapporterne",
+        "ThanksForUsing": "Tak, fordi du bruger tjenesten IP2Location.",
+        "Threat": "Trussel",
+        "Type": "Type",
+        "UsageType": "Anvendelsestype",
+        "WantToReceiveDailyReport": "Jeg vil modtage daglige rapporter via e-mail med oplysninger om de proxyer, der har besøgt mine hjemmesider."
     }
 }
